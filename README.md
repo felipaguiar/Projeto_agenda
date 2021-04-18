@@ -1,2 +1,16 @@
 # Projeto_agenda
-Para acessar o executável, apenas entrar na pasta "Agenda_telefonica" o atalho do executável estará no primeiro diretório
+Primeiro passo:
+
+Baixar pasta compactada localizada aqui no GitHub
+
+Segundo passo:
+
+Extrair os arquivos da pasta compactada
+
+Terceiro passo:
+
+Acessar a pasta "Agenda_Telefonica"
+
+Quarto passo:
+
+Executar o aplicativo localizado na pasta "Agenda_Telefonica"

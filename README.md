@@ -1,4 +1,6 @@
 # Projeto_agenda
+Importante ter .netcore instalado em sua maquina
+
 Primeiro passo:
 
 Baixar pasta compactada localizada aqui no GitHub

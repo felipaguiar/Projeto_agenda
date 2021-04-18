@@ -1,5 +1,6 @@
 # Projeto_agenda
 //Importante ter .netcore instalado em sua maquina
+-----------------------------------------------------------------------------------------------------------------------------------
 
 Primeiro passo:
 
@@ -32,5 +33,7 @@ Acessar a pasta "netcoreapp3.1"
 Nono Passo:
 
 Após isso apenas clicar no arquivo .exe que irá executar o aplicativo
+
+-----------------------------------------------------------------------------------------------------------------------------------
 
 Desde já agradeço a oportunidade
